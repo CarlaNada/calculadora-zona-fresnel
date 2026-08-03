@@ -1,5 +1,5 @@
 # Calculadora de la Zona de Fresnel
-Este software de escritorio fue desarrollado para realizar el cálculo del radio de la **1.ª Zona de Fresnel** de manera intuitiva, rápida y amigable.
+Este software de escritorio fue desarrollado para realizar el cálculo del radio de la **Zona de Fresnel** de manera intuitiva, rápida y amigable.
 ---
 
 ## Información del Proyecto
@@ -29,7 +29,7 @@ Validación inteligente de datos:
 
 Clonar o descargar el repositorio:
 ```Bash
-git clone [https://github.com/tu-usuario/calculadora-zona-fresnel.git](https://github.com/tu-usuario/calculadora-zona-fresnel.git)
+git clone git@github.com:CarlaNada/calculadora-zona-fresnel.git
 cd calculadora-zona-fresnel
 ```
 
